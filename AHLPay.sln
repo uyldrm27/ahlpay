@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AHLPay", "AHLPay\AHLPay.csproj", "{1861A467-4C71-4807-B74A-455C689D3216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{691FC469-EB39-4F48-BC70-9EBB2E63BD44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{A977A51D-C940-4986-B33D-C29B9EB9A084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1861A467-4C71-4807-B74A-455C689D3216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1861A467-4C71-4807-B74A-455C689D3216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1861A467-4C71-4807-B74A-455C689D3216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1861A467-4C71-4807-B74A-455C689D3216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691FC469-EB39-4F48-BC70-9EBB2E63BD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691FC469-EB39-4F48-BC70-9EBB2E63BD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691FC469-EB39-4F48-BC70-9EBB2E63BD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691FC469-EB39-4F48-BC70-9EBB2E63BD44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A977A51D-C940-4986-B33D-C29B9EB9A084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A977A51D-C940-4986-B33D-C29B9EB9A084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A977A51D-C940-4986-B33D-C29B9EB9A084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A977A51D-C940-4986-B33D-C29B9EB9A084}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63B22AE2-0D26-432E-BE79-B547BDE72AE7}
+	EndGlobalSection
+EndGlobal
